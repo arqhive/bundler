@@ -1,0 +1,19 @@
+{
+  "name": "bundler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/arqhive/bundler",
+  "author": "arqhive <hgystation@aol.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.2.3",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2"
+  }
+}
